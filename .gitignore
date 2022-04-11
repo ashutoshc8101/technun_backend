@@ -1,1 +1,5 @@
 sendgrid.env
+
+ticket/
+
+node_modules/
